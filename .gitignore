@@ -1,0 +1,15 @@
+# FRONTEND
+node_modules/
+dist/
+
+# BACKEND
+target/
+*.log
+
+# SYSTEM
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
